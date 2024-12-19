@@ -21,7 +21,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhanraj-12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ankit1576734&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -54,10 +54,12 @@
 
 <span>
 <a href="https://www.codechef.com/users/ankitgajanands">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=dhanraj_12&theme=github_dark&force_username=true&border_color=404040" alt="redheadphone Codeforces Stats"/>
+<img height="316" src="https://codechef-readme-stats.vercel.app/api/card?username=Ankit2727&theme=github_dark
+" alt="redheadphone Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/Ankit2727">
-<img height="316" src="https://leetcard.jacoblin.cool/Ankit2727?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Ankit's Leetcode Stats"/>
+<img height="316" src="https://leetcard.jacoblin.cool/Ankit2727?theme=dark&font=baloo
+" alt="Ankit's Leetcode Stats"/>
 </a>
 </span>
 
